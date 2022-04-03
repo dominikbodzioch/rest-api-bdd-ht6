@@ -1,1 +1,1 @@
-# rest-api-bdd-ht6
+# API Testing: REST Assured / BDD
